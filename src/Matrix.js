@@ -20,6 +20,7 @@ export default class Matrix extends Component {
   
 }
 
+<<<<<<< HEAD
 Matrix.defaultProps = {
   values: [
   ['#F00','#F00','#F00','#F00','#F00','#F00','#F00','#F00', '#F00','#F00'],
@@ -36,3 +37,17 @@ Matrix.defaultProps = {
   ]
 }
   
+=======
+Matrix.defaultProps = [
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  [],
+  []
+  ];
+>>>>>>> ecff8e3c047cac41e850d2552345b2f16788cc9c
